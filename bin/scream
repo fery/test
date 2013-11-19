@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'test/test'
+
+Test::CLI.start
